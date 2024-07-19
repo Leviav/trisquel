@@ -1,10 +1,3 @@
-/* =====================================================
-Template Name   : Travelox
-Description     : Travel & Tour HTML5 Template
-Author          : Themesland
-Version         : 1.3
-=======================================================*/
-
 /* ===================
 fonts
 ====================== */
@@ -862,6 +855,7 @@ nav menu css
 
 .navbar .navbar-brand .logo-scrolled {
   display: none;
+  filter: drop-shadow(0px 0px 5px #f92);
 }
 
 .navbar.fixed-top .navbar-brand .logo-display {
